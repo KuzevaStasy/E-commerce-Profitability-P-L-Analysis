@@ -50,6 +50,7 @@ Break-Even Run-Rate: Minimum monthly revenue threshold of $1.05M - $1.15M requir
 CAC Buffer: With a baseline gross margin of ~14.9%, marketing allocation must not exceed 10.0% of gross revenue to protect operational solvency.
 
 ## 🛠️ Project Structure
+```
 ├── data/
 │   └── Ecommerce_Sales_Data_2024_2025.csv
 ├── notebooks/
@@ -57,6 +58,7 @@ CAC Buffer: With a baseline gross margin of ~14.9%, marketing allocation must no
 │   ├── 02_Discount_Elasticity_Unit_Economics.ipynb
 │   └── 03_Corporate_PnL_BreakEven.ipynb
 └── README.md
+```
 
 ## 💻 Tech Stack & Tools
 Python 3.10+
