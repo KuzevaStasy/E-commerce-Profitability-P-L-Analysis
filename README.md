@@ -77,6 +77,7 @@ pip install dash plotly pandas
 python app.py
 ```
 Then open http://127.0.0.1:8050. The dashboard has a category filter, KPI cards (revenue, profit, margin %) and three charts: revenue vs profit trend, discount impact on margin and a monthly P&L overview.
+
 💻 Tech Stack
 Python 3.10+
 Data: pandas, numpy
